@@ -8,7 +8,7 @@ A simple Python-based GUI application to fetch and display information about Pok
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contact](#contact)  *(Optional, but recommended)*
+- [Contact](#contact)  
 
 ## Introduction
 
