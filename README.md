@@ -31,7 +31,7 @@ Pookie Wiki is a fun and easy-to-use application that allows you to search for P
      - `tkinter` (usually included with Python)
 
 2. **Installation:**
-   - Clone the repository: `git clone https://github.com/JungleeGAP/pookie-wiki.git`  
+   - Clone the repository: `https://github.com/JungleeGAP/Pookie-Wiki.git`  
    - Navigate to the project directory: `cd pookie-wiki`
    - Install the required libraries: `pip install requests Pillow`
 
