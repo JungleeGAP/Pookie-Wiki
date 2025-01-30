@@ -27,13 +27,14 @@ Pookie Wiki is a fun and easy-to-use application that allows you to search for P
    - Python 3.x installed on your system.
    - The following Python libraries:
      - `requests`
-     - `Pillow` (PIL Fork)
-     - `tkinter` (usually included with Python)
+     - `Pillow` 
+     - `tkinter` 
 
 2. **Installation:**
    - Clone the repository: `https://github.com/JungleeGAP/Pookie-Wiki.git`  
-   - Navigate to the project directory: `cd pookie-wiki`
-   - Install the required libraries: `pip install requests Pillow`
+   - Install the required libraries:
+      - `pip install requests`
+      - `pip install tkinter`    
 
 ## Usage
 
@@ -44,4 +45,4 @@ Pookie Wiki is a fun and easy-to-use application that allows you to search for P
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me by opening an issue on this GitHub repository or email me at. ` xs1aryan1499@gmail.com`
+If you have any questions or suggestions, feel free to contact me by opening an issue on this GitHub repository or email me at: `xs1aryan1499@gmail.com`
