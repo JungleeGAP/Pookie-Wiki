@@ -44,4 +44,4 @@ Pookie Wiki is a fun and easy-to-use application that allows you to search for P
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me by opening an issue on this GitHub repository or email me at. ` xs1aryan1499@gmail.com`)
+If you have any questions or suggestions, feel free to contact me by opening an issue on this GitHub repository or email me at. ` xs1aryan1499@gmail.com`
